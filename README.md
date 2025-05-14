@@ -24,5 +24,11 @@ This project uses time series modeling to forecast weekly sales across 45 Walmar
 - Several stores showed forecast-resistant behavior, likely due to missing external variables
 - Grouped stores by forecasting difficulty using K-Means
 
+## 🔗 View the Project
+
+You can download and view the full interactive HTML version of the notebook here:
+
+[Download HTML Version](https://github.com/tjsladen/walmart-sales-forecasting/raw/main/Walmart_sales.html)
+
 ## 🗂️ Dataset
 Original data from [Walmart Store Sales Prediction - Regression Problem](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
