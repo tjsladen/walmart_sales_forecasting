@@ -14,7 +14,7 @@ This project uses time series modeling to forecast weekly sales across 45 Walmar
 - SHAP and XGBoost used for feature relevance testing
 
 ## 🔍 Tools Used
-- Python (Pandas, Matplotlib, Seaborn, Plotly, Prophet, XGBoost, Numpy, SKLearn, Shap and statsmodels)
+- Python Spyder (Pandas, Matplotlib, Seaborn, Plotly, Prophet, XGBoost, Numpy, SKLearn, Shap and statsmodels)
 - Jupyter Notebook
 - Visualised and tested with cross-validation
 - HTML export available for review
