@@ -26,9 +26,5 @@ This project uses time series modeling to forecast weekly sales across 45 Walmar
 
 ## 🔗 View the Project
 
-You can download and view the full interactive HTML version of the notebook here:
-
-[Download HTML Version](https://github.com/tjsladen/walmart_sales_forecasting/blob/b1ec1fff146a3aeb2ec891036a18459187954b60/Walmart_sales.html)
-
 ## 🗂️ Dataset
 Original data from [Walmart Store Sales Prediction - Regression Problem](https://www.kaggle.com/datasets/yasserh/walmart-dataset)
